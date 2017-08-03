@@ -1,5 +1,5 @@
 ---
-layout: default1
+layout: default
 title: 月球猫的鱼塘
 ---
 ## 文章列表
