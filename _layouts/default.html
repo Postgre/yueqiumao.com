@@ -11,9 +11,9 @@
 <br/>
 友情链接：
 <ul>
-    {{ for friend in site.friends }}
+    {% for friend in site.friends %}
     <li><a rel="nofollow" href="{{ friend.url }}">{{ friend.title }}</a></li>
-    {{ endfor }}
+    {% endfor %}
 </ul>
 </body>
 </html>
