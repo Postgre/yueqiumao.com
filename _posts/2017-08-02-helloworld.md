@@ -10,3 +10,9 @@ title: 你好，世界
 ![](/assets/201708/4131560946.jpg)
 
 {{ page.date | date_to_string }}
+
+```lua
+function haha()
+    print("闹了个咪")
+end
+```
