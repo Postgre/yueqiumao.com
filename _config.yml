@@ -1,40 +1,29 @@
 title: "月球猫的鱼塘"
 url: "http://yqm.io"
+theme: jekyll-theme-cayman
 
 # 友情链接
 friends:
   - title: "月球猫博客"
     url: "http://yqm.io"
-
   - title: "Qubot"
     url: "http://qubot.cn"
-
   - title: "炫Q香蕉派"
     url: "http://mikuq.com"
-
   - title: "XiaoLu Lab"
     url: "https://0w0.pw"
-
   - title: "井底添蛙DIY"
     url: "http://www.smilefrog.net"
-
   - title: "Neuron Black"
     url: "http://neuronblack.cc"
-
   - title: "狗爬社区"
     url: "http://forum.godpub.com/forum.php"
-
   - title: "NyaMoe – いつ空"
     url: "https://www.nyamoe.com"
-
   - title: "小窝"
     url: "http://www.300er.com"
-
   - title: "天宇小站"
     url: "http://makt.top"
-    
   - title: "Water的个人空间"
     url: "http://wp-cloud.cc"
 
-
-theme: jekyll-theme-cayman

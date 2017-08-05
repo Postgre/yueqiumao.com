@@ -16,3 +16,4 @@ function haha()
     print("闹了个咪")
 end
 ```
+{% include haha.md %}
