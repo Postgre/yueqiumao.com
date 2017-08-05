@@ -36,3 +36,5 @@ friends:
   - title: "Water的个人空间"
     url: "http://wp-cloud.cc"
 
+
+theme: jekyll-theme-cayman
