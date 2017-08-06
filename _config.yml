@@ -1,6 +1,42 @@
-title: "月球猫的鱼塘"
+# Site settings
+title: 月球猫的鱼塘
+description: "hhahahahhaa"
 url: "http://yqm.io"
-theme: jekyll-theme-minimal
+author:
+  name: ""
+  email: ""
+  url: ""
+
+# Build settings
+#baseurl: /blog # Change this to your relative path (ex: /blog/), or leave just a /
+#markdown: kramdown
+#source: .
+#destination: ./_site
+#permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom variables
+version: "1.0.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
 
 # 友情链接
 friends:
@@ -26,4 +62,3 @@ friends:
     url: "http://makt.top"
   - title: "Water的个人空间"
     url: "http://wp-cloud.cc"
-
