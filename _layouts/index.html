@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/screen.min.css">
+    <link rel="stylesheet" href="/css/font-awesome.min.css">
+    <!--[if lt IE 9]>
+        <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+    <nav class="main-navigation">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <ul class="menu">
+                        <li role="presentation"><a href="{{ site.url }}" title="首页">首页</a></li>
+                        <li role="presentation"><a href="/about/html" title="关于">关于</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <section class="content-wrap">
+        <div class="container">
+            <div class="row">
+                <main class="col-md-8 main-content">
+                    {% for post in paginator.posts %}
+                    <article class="post">
+                        <div class="post-head">
+                            <h1 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+                        </div>
+                        <div class="post-content">
+                            {{ post.content  || split:'<!--more-->' | first }}
+                        </div>
+                        <div class="post-permalink"><a href="{{ post.url }}" class="btn btn-default">阅读全文</a></div>
+                        <footer class="post-footer clearfix"></footer>
+                    </article>
+                    {% endfor %}
+                    <nav class="pagination" role="navigation">{% if paginator.previous_page %}{% if paginator.previous_page == 1 %}<a class="newer-posts" href="/">{% else %} <a class="newer-posts" href="/page{{ paginator.previous_page }}"> {% endif %}
+                    <i class="fa fa-angle-left"></i></a>{% endif %} <span class="page-number">第 {{ paginator.page }} 页 / 共 {{ paginator.total_pages }} 页</span> {% if paginator.next_page %}<a class="older-posts" href="/page{{ paginator.next_page }}"><i class="fa fa-angle-right"></i></a>{% endif %}</nav>
+                </main>
+                <aside class="col-md-4 sidebar">
+                    <div class="widget">
+                        <h4 class="title">友情链接</h4> {% for friend in site.friends %}
+                        <a href="{{ friend.url }}" target="_blank">{{ friend.title }}</a>
+                        <br/> {% endfor %}
+                    </div>
+                </aside>
+            </div>
+        </div>
+    </section>
+    <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+</body>
+
+</html>

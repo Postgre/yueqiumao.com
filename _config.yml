@@ -13,8 +13,8 @@ author:
 #source: .
 #destination: ./_site
 #permalink: /:title
-paginate: 8
-paginate_path: /page:num/
+paginate: 2
+# paginate_path: /page:num/
 
 # Default values
 defaults:
