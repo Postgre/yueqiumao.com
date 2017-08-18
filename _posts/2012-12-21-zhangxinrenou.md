@@ -1,48 +1,48 @@
 ---
 title: 《掌心人偶》绘本
 ---
-![](/assets/zhangxinrenou/1.png)
+![](/assets/zhangxinrenou/1.jpg)
 
 	我的叔叔是水手，为了捕鱼而在世界中游荡。这个叔叔久违重逢地回来了。我第一次去港口玩，我登上了船，甲板稍微有点腥臭。甲板上有只小猴子，它被系在桅杆上，在漫长的航海旅途中，它是人见人爱的宠物，但是我有点害怕这只猴子，因为它会对我呲牙咧嘴。
 
-![](/assets/zhangxinrenou/2.png)
-![](/assets/zhangxinrenou/3.png)
+![](/assets/zhangxinrenou/2.jpg)
+![](/assets/zhangxinrenou/3.jpg)
 
 	上次回港的时候，伯父来了我的家，那时带来的礼物，是很昂贵的外国酒。虽然父亲很高兴，但对小孩子来说却很无趣。但是呢，他说这次有给我的礼物。
 
-![](/assets/zhangxinrenou/4.png)
+![](/assets/zhangxinrenou/4.jpg)
 
 	但是呢，他说这次有给我的礼物。叔叔在港口的食堂一边喝着啤酒，一边把礼物送给了我。我马上撕开包装纸，并打开了盒子。在箱子当中，放着漂亮的木质人偶。「这个叫套娃噢」叔叔说。他说这是在俄罗斯买的，他还说这人偶里套着人偶，里面总共有七个人偶。［一个人偶可以实现一个愿望哦］叔叔这么说。
 
-![](/assets/zhangxinrenou/5.png)
-![](/assets/zhangxinrenou/6.png)
+![](/assets/zhangxinrenou/5.jpg)
+![](/assets/zhangxinrenou/6.jpg)
 
 	我马上对一个最大的人偶说：想吃冰激凌。那样做了以后，食堂的厨师拿来了很棒的冰激凌。［请用，因为做多了，就当作特别服务送给你吧。］
 
-![](/assets/zhangxinrenou/7.png)
+![](/assets/zhangxinrenou/7.jpg)
 
 	过了些时候，打开人偶，稍微有点小的你，许愿着想养只小鸟，那天爸爸就买回来了，说偶然在鸟店看上了。
 
-![](/assets/zhangxinrenou/8.png)
+![](/assets/zhangxinrenou/8.jpg)
 
 	又打开了人偶，第三个，更小的你。祈求想要和最喜欢的电影演员见面。第二天，在大路上奔跑时和人撞上了。［抱歉，没事吧，小姐。］祈求见到的人如此说道。
 
-![](/assets/zhangxinrenou/9.png)
+![](/assets/zhangxinrenou/9.jpg)
 
 	又打开了人偶，第四个的你，更小了，我许愿想要一件可爱的洋装，马上就到我的生日了，祖母带我到店里为我量身订做了一件。
 
-![](/assets/zhangxinrenou/10.png)
+![](/assets/zhangxinrenou/10.jpg)
 
 	又打开了人偶，第五个的你，比前一个更小了，我许愿想到遥远的地方旅行，爷爷去世了，葬礼在远方的小镇举行。
 
-![](/assets/zhangxinrenou/11.png)
+![](/assets/zhangxinrenou/11.jpg)
 
 
 	打开了人偶，第六个，更小更小的你，我许愿想要一位理想中的男朋友，愿望成真了，可是他太完美了，所以很快就分手了。
 
-![](/assets/zhangxinrenou/12.png)
+![](/assets/zhangxinrenou/12.jpg)
 
 	犹豫地打开了，第七个，只有手指大小的你，对最小的你许下了最大的愿望，能为我实现吗?我的愿望是……
 
-![](/assets/zhangxinrenou/13.png)
-![](/assets/zhangxinrenou/14.png)
+![](/assets/zhangxinrenou/13.jpg)
+![](/assets/zhangxinrenou/14.jpg)
