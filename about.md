@@ -3,4 +3,4 @@ layout: post
 title: 关于
 ---
 
-嘿嘿
+![](/assets/201708/4131560946.jpg)

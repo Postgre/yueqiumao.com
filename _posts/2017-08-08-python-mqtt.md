@@ -1,3 +1,7 @@
+---
+title: python mqtt小例子
+---
+```python
 	# -*- coding: utf-8 -*-    
 	import paho.mqtt.client as mqtt  
 	
@@ -26,3 +30,4 @@
 	
 	# from paho.mqtt import publish
 	# publish.single("gpio", "hello", hostname="iot.eclipse.org")
+```

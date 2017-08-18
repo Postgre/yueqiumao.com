@@ -1,4 +1,6 @@
-## 树莓派配置WIFI上网
+---
+title: 树莓派配置WIFI上网
+---
 
 针对固件 `raspberry-lite`， 主要命令是 `wpa_cli`。
 

@@ -1,3 +1,6 @@
+---
+title: nginx 配置 SSL
+---
 ```
 server {
 	ssl on;
